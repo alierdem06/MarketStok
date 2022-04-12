@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok_", "WindowsFormsApp2\Stok_.csproj", "{EA4B2D0F-9509-4850-89AF-50CE095F64CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4B2D0F-9509-4850-89AF-50CE095F64CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4B2D0F-9509-4850-89AF-50CE095F64CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4B2D0F-9509-4850-89AF-50CE095F64CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4B2D0F-9509-4850-89AF-50CE095F64CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62CB60A9-BC2C-4BDC-8ED6-9ABB33D04944}
+	EndGlobalSection
+EndGlobal

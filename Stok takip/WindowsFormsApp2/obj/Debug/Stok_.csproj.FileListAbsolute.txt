@@ -1,0 +1,45 @@
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Stok_.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriEkle.resources
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSatis.resources
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Stok_.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Stok_.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Ali\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriEkle.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSatis.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Stok_.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Stok_.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Stok_.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriListele.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmKategori.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMarka.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmUrunEkle.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmUrunListele.resources
+C:\Users\Ali\Desktop\market proje\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSatisListele.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\Stok_.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmKategori.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMarka.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriEkle.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMusteriListele.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSatis.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSatisListele.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmUrunEkle.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmUrunListele.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\Stok_.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\Stok_.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Ali\Desktop\market proje\Stok takip\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
